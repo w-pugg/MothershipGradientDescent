@@ -1,7 +1,12 @@
 **==Warden Notes==**
 - This area has working gravity, breathable atmosphere, and is dimly lit by backup lighting unless otherwise noted.
 - Any violent action here alerts 2d10 [[Security Androids]] from within ***[[The Deep]]*** who come to investigate in 1d10 rounds.
-
+#### Region Encounters
+00: 1d10 [[Troubleshooters]]
+01-03: 1d5 [[Forgotten Androids]]
+04-06: Distorted corporate elevator music plays calmly over the intercom %% Put this into TAT %%
+07-08: A [[Security Androids|Security Android]]
+09: A [[Diver]]
 #### Contents
 [[[22A] Visitors Dock]]
 [[[22B] Reception]]
@@ -18,9 +23,3 @@
 [[[23F] Storage]]
 [[[23G] Employee Rec Center]]
 
-#### Region Encounters
-00: 1d10 [[Troubleshooters]]
-01-03: 1d5 [[Forgotten Androids]]
-04-06: Distorted corporate elevator music plays calmly over the intercom %% Put this into TAT %%
-07-08: A [[Security Androids|Security Android]]
-09: A [[Diver]]

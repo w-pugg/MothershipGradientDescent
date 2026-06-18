@@ -5,10 +5,8 @@ Hundreds of pieces of metal are being dipped into vats of water.**
 
 #### Doors
 
-Completely adjacent to (3):
+Airlock; to (1):
 [[[37D] Foam Warrens (zG)]]
-[[[37B] Sanding Facility (zG)]]
-[[[38E] Waste Reclamation (zG)]]
 
 Exposed heat vent; forks in the middle to (2):
 *(If not wearing a hazard suit, body save or 1d10 damage until out)*

@@ -8,9 +8,10 @@ The CLOUDBANK Synthetics Production Facility, now called *The Deep*, is a cordon
 - [[Floor 3.2 - Skeleton Works]]
 - [[Floor 3.3 - Pseudoflesh Farms]]
 - [[Floor 3.4 - Brain Construction]]
-- [[Floor 3.5 - Dis/Assembly]]
+- [[Floor 3.5 - DisAssembly]]
 - [[Floor 3.6 - Storage]]
-- [[Floor 3.7 - Quality Assurance]]
+- [[Floor 3.7 - “Quality Assurance”]]
+
 [[Floor 4 - Human Emulation Labs (HEL)]]
 [[Floor 5 - The AI Core]]
 [[Floor 6 - Engineering and Support]]
