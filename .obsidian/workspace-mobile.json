@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "553c18a5af21174f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0902a3608832f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fc421b0cdee268b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Containment Suits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Containment Suits"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a8d284a1a723624",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9f6c896d57aed03e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e83df27e5e69f5ab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d0da7c9b6348fab3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "38882a3b6d8b656d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "51dcbcf10470a1c2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e18bbe00184238b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "49922f77d42736c4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Containment Suits.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5adf68261713cca8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ff1bcde9429d2563",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "fb9ef035551fa69e",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      },
+      {
+        "id": "a960756e041185f7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0fc421b0cdee268b",
+  "lastOpenFiles": [
+    "[33A] Decontamination (zG).md",
+    "[18A] Thrust Chamber Nozzle (zG).md",
+    "Containment Suits.md",
+    "[18B] Lost & Found (zG).md",
+    "Security Androids.md",
+    "[47H] Brainscan Databank.md",
+    "[37C] Quenching Tubs (zG).md",
+    "Floor 3.1 - Maintenance Zone.md",
+    "Troubleshooters.md",
+    "[36B] Mould Press (zG).md",
+    "The Bell.md",
+    "Monarch.md",
+    "At Its Core.md",
+    "[22A] Visitors Dock.md",
+    "Floor 3.2 - Skeleton Works.md",
+    "The Deep.md",
+    "[22B] Reception.md",
+    "The Bends.md",
+    "Floor 1 - Reception and Habitation.md",
+    "[33B] Zero-Gym (zG).md",
+    "Templates/Small Room Template.md",
+    "Templates",
+    "[37B] Sanding Facility (zG).md",
+    "Diver.md",
+    "Space.md",
+    "[33C] The Freezer (zG).md",
+    "[36A] Bone Forge (zG).md"
+  ]
+}

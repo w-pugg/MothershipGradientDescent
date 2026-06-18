@@ -1,0 +1,1 @@
+The space around ***[[The Deep]]*** is desolate. Aside from the occasional [[Troubleshooters|troubleshooter]] assault vessels and the even rarer daring diver ships, A discarded thruster component orbits ***The Deep*** known as [[The Bell]].
