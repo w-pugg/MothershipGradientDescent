@@ -1,3 +1,5 @@
 {
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "theme": "obsidian",
+  "accentColor": "#1171ee"
 }
